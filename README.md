@@ -1,41 +1,41 @@
 <div align="center">
-  <img src="./nudge-header.svg" alt="Nudge Studio — Thoughtful browser tools" width="100%" />
+  <img src="./coffee-banner.gif" alt="Animated illustration of a coffee cup on a colorful desk" width="100%" />
 </div>
 
 <br />
 
-# Hey, I'm Sinqanz.
-
-I'm interested in thoughtful software and the small details that make digital products feel better.
-
-Currently building **Nudge**, an independent studio focused on useful browser extensions.
-
-## What I'm working on
-
-**Nudge Studio**  
-A home for simple, carefully considered browser tools.
-
-**Pocktab**  
-An upcoming Chrome extension for saving and organizing links. Currently in development.
-
-## GitHub activity
-
 <div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sinqanz&amp;show_icons=true&amp;hide_border=true&amp;hide_rank=true&amp;bg_color=FAFBF9&amp;title_color=28674D&amp;text_color=364339&amp;icon_color=397B60"
-    alt="Sinqanz GitHub statistics"
-    width="460"
-  />
-  <br />
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sinqanz&amp;bg_color=FAFBF9&amp;color=364339&amp;line=397B60&amp;point=28674D&amp;area=true&amp;area_color=D9EBDD&amp;hide_border=true&amp;radius=12"
-    alt="Sinqanz GitHub contribution activity"
-    width="100%"
-  />
+
+# Sinqanz
+
+Building useful things, one idea at a time.
+
+[**My GitHub**](https://github.com/sinqanz) &nbsp;·&nbsp; **Independent projects** &nbsp;·&nbsp; **Browser tools**
+
 </div>
 
 ---
 
+### About
+
+I like exploring new ideas, experimenting with software and paying attention to the details that make a product feel right. I build at my own pace and share what I make along the way.
+
+### Current work
+
+<img src="./assets/current-projects.svg" alt="Nudge Studio and Pocktab — current projects" width="100%" />
+
+Nudge is an independent project for thoughtful browser tools. Its first extension, **Pocktab**, is being developed to help save and organize links.
+
+### How I approach things
+
+<img src="./assets/principles.svg" alt="Useful ideas, considered details, and learning by doing" width="100%" />
+
+### Explore
+
+[**Repositories ↗**](https://github.com/sinqanz?tab=repositories) &nbsp;&nbsp;·&nbsp;&nbsp; [**Contributions ↗**](https://github.com/sinqanz?tab=overview) &nbsp;&nbsp;·&nbsp;&nbsp; [**Profile ↗**](https://github.com/sinqanz)
+
+---
+
 <div align="center">
-  <sub>Small tools. A calmer web.</sub>
+  <sub>Less noise. More room for good ideas.</sub>
 </div>
