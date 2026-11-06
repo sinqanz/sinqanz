@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 440" role="img" aria-labelledby="title desc">
+<title id="title">Learning in public</title><desc id="desc">I'm not an experienced developer yet. I learn by trying, and each project gets better.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#182638"/><stop offset="1" stop-color="#111a29"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ffc96c"/><stop offset="1" stop-color="#f47754"/></linearGradient>
+</defs>
+<rect width="840" height="440" rx="34" fill="url(#bg)"/>
+<circle cx="798" cy="33" r="128" fill="none" stroke="#34475c" stroke-width="20" opacity=".45"/>
+<circle cx="798" cy="33" r="82" fill="none" stroke="#39566b" stroke-width="2" opacity=".5"/>
+<circle cx="737" cy="45" r="22" fill="#ffcb70" />
+<path d="M0 401 C135 359,233 449,361 417 S641 355,840 420 V440 H0Z" fill="#26354a" opacity=".7"/>
+<rect x="52" y="49" width="243" height="55" rx="28" fill="#304358"/>
+<circle cx="78" cy="77" r="9" fill="#e5b45c"/>
+<text x="98" y="87" font-family="Inter,Arial,sans-serif" font-size="23" font-weight="600" fill="#f6e9cc" letter-spacing="1">LEARNING</text>
+<text x="52" y="178" font-family="Inter,Arial,sans-serif" font-size="57" font-weight="700" fill="#fff7e8">Not an expert.</text>
+<text x="52" y="243" font-family="Inter,Arial,sans-serif" font-size="57" font-weight="700" fill="#fff7e8">Still building.</text>
+<text x="52" y="314" font-family="Inter,Arial,sans-serif" font-size="30" fill="#c5d0d9">I learn by trying things out.</text>
+<text x="52" y="354" font-family="Inter,Arial,sans-serif" font-size="30" fill="#c5d0d9">Every project gets a little better.</text>
+<path d="M697 349 h62 m-18 -18 18 18 -18 18" stroke="#ffd27a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

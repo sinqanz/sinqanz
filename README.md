@@ -1,38 +1,43 @@
 <div align="center">
-  <img src="./assets/coffee.gif" alt="Animated evening coffee illustration" width="500" />
+  <img src="./assets/coffee.gif" alt="Animated illustration of a steaming coffee cup" width="420" />
 
-  <h1>Sinqanz</h1>
-
-  <p>Building useful things, one idea at a time.</p>
-  <p><sub>Independent projects &nbsp;·&nbsp; Software &nbsp;·&nbsp; Exploring what’s next</sub></p>
+  <h1>Hey, I'm Sinqanz.</h1>
+  <p>Exploring ideas, building small projects, and getting better as I go.</p>
+  <p>
+    <a href="https://github.com/sinqanz?tab=repositories">Repositories ↗</a>
+    &nbsp; · &nbsp;
+    <a href="https://github.com/sinqanz?tab=overview">Activity ↗</a>
+  </p>
 </div>
 
 ---
 
-### About
+### A little about me
 
-I enjoy experimenting with software, exploring new ideas, and working on the details that make a product feel right. I prefer building things with a clear purpose and learning as I go.
+I'm still learning my way around software development. I'm not an experienced developer yet, but I enjoy experimenting, working through challenges, and improving the details. Every project teaches me something new — and I want each one to be better than the last.
 
 ### A closer look
 
 <div align="center">
-  <img src="./assets/about.png" width="340" alt="About — Curious by nature. Ideas, experiments and software." />
+  <img src="./assets/learning.png" width="345" alt="Learning: Not an expert. Still building. I learn by trying things out. Every project gets a little better." />
   &nbsp;
-  <img src="./assets/focus.png" width="340" alt="Focus — Build. Refine. Repeat. Small details make a difference." />
+  <img src="./assets/process.png" width="345" alt="My process: Better over time. Explore, Build, Refine." />
 </div>
 
-### Currently
+### What I'm exploring
 
-- Working on independent software projects.
-- Exploring useful tools and better user experiences.
-- Learning through testing, improving and shipping things.
+- Independent software projects and useful everyday tools.
+- Thoughtful interfaces and the little things that make them feel right.
+- Learning by building, testing, making mistakes, and trying again.
 
-### Explore
+<details>
+  <summary><b>A note on my progress</b></summary>
+  <br />
+  I'm at the beginning of my developer journey. This profile is a place to share what I work on, track how much I improve, and look back at the projects that helped me learn.
+</details>
 
-[Repositories ↗](https://github.com/sinqanz?tab=repositories) &nbsp; · &nbsp; [Contributions ↗](https://github.com/sinqanz?tab=overview) &nbsp; · &nbsp; [Profile ↗](https://github.com/sinqanz)
-
----
+<br />
 
 <div align="center">
-  <sub>Thoughtful ideas. Simple execution.</sub>
+  <sub>Explore. Build. Refine. Repeat.</sub>
 </div>
