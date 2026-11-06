@@ -1,41 +1,38 @@
 <div align="center">
-  <img src="./coffee-banner.gif" alt="Animated illustration of a coffee cup on a colorful desk" width="100%" />
-</div>
+  <img src="./assets/coffee.gif" alt="Animated evening coffee illustration" width="500" />
 
-<br />
+  <h1>Sinqanz</h1>
 
-<div align="center">
-
-# Sinqanz
-
-Building useful things, one idea at a time.
-
-[**My GitHub**](https://github.com/sinqanz) &nbsp;·&nbsp; **Independent projects** &nbsp;·&nbsp; **Browser tools**
-
+  <p>Building useful things, one idea at a time.</p>
+  <p><sub>Independent projects &nbsp;·&nbsp; Software &nbsp;·&nbsp; Exploring what’s next</sub></p>
 </div>
 
 ---
 
 ### About
 
-I like exploring new ideas, experimenting with software and paying attention to the details that make a product feel right. I build at my own pace and share what I make along the way.
+I enjoy experimenting with software, exploring new ideas, and working on the details that make a product feel right. I prefer building things with a clear purpose and learning as I go.
 
-### Current work
+### A closer look
 
-<img src="./assets/current-projects.svg" alt="Nudge Studio and Pocktab — current projects" width="100%" />
+<div align="center">
+  <img src="./assets/about.png" width="340" alt="About — Curious by nature. Ideas, experiments and software." />
+  &nbsp;
+  <img src="./assets/focus.png" width="340" alt="Focus — Build. Refine. Repeat. Small details make a difference." />
+</div>
 
-Nudge is an independent project for thoughtful browser tools. Its first extension, **Pocktab**, is being developed to help save and organize links.
+### Currently
 
-### How I approach things
-
-<img src="./assets/principles.svg" alt="Useful ideas, considered details, and learning by doing" width="100%" />
+- Working on independent software projects.
+- Exploring useful tools and better user experiences.
+- Learning through testing, improving and shipping things.
 
 ### Explore
 
-[**Repositories ↗**](https://github.com/sinqanz?tab=repositories) &nbsp;&nbsp;·&nbsp;&nbsp; [**Contributions ↗**](https://github.com/sinqanz?tab=overview) &nbsp;&nbsp;·&nbsp;&nbsp; [**Profile ↗**](https://github.com/sinqanz)
+[Repositories ↗](https://github.com/sinqanz?tab=repositories) &nbsp; · &nbsp; [Contributions ↗](https://github.com/sinqanz?tab=overview) &nbsp; · &nbsp; [Profile ↗](https://github.com/sinqanz)
 
 ---
 
 <div align="center">
-  <sub>Less noise. More room for good ideas.</sub>
+  <sub>Thoughtful ideas. Simple execution.</sub>
 </div>
