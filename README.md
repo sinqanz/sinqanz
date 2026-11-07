@@ -1,43 +1,47 @@
-<div align="center">
-  <img src="./assets/coffee.gif" alt="Animated illustration of a steaming coffee cup" width="420" />
+# Hey, I'm Sinqanz 👋
 
-  <h1>Hey, I'm Sinqanz.</h1>
-  <p>Exploring ideas, building small projects, and getting better as I go.</p>
-  <p>
-    <a href="https://github.com/sinqanz?tab=repositories">Repositories ↗</a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/sinqanz?tab=overview">Activity ↗</a>
-  </p>
-</div>
+I'm getting started with programming and want to build Discord bots.
+Here I'll share my projects and what I learn along the way.
 
----
+## 💻 Learning path
 
-### A little about me
+Starting with JavaScript, then moving on to TypeScript and Discord bot development.
+These are the technologies I want to learn, step by step.
 
-I'm still learning my way around software development. I'm not an experienced developer yet, but I enjoy experimenting, working through challenges, and improving the details. Every project teaches me something new — and I want each one to be better than the last.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,git&amp;theme=dark" alt="Learning goals: JavaScript, TypeScript, Node.js, discord.js and Git" height="64" />
+  </a>
+</p>
 
-### A closer look
+## 🛠️ Tools
 
-<div align="center">
-  <img src="./assets/learning.png" width="345" alt="Learning: Not an expert. Still building. I learn by trying things out. Every project gets a little better." />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,windows&amp;theme=dark" alt="Tools: GitHub and Windows" height="64" />
+  </a>
+</p>
+
+## 🌱 Projects
+
+My repositories are where I'll share small projects, experiments and progress.
+
+[Explore my repositories →](https://github.com/sinqanz?tab=repositories)
+
+## 🌐 Socials
+
+<p align="center">
+  <a href="https://github.com/sinqanz">
+    <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="Sinqanz on GitHub" height="48" />
+  </a>
   &nbsp;
-  <img src="./assets/process.png" width="345" alt="My process: Better over time. Explore, Build, Refine." />
-</div>
+  <a href="https://discord.com/users/1374018758427021365">
+    <img src="https://skillicons.dev/icons?i=discord" alt="Sinqanz on Discord" height="48" />
+  </a>
+</p>
 
-### What I'm exploring
-
-- Independent software projects and useful everyday tools.
-- Thoughtful interfaces and the little things that make them feel right.
-- Learning by building, testing, making mistakes, and trying again.
-
-<details>
-  <summary><b>A note on my progress</b></summary>
-  <br />
-  I'm at the beginning of my developer journey. This profile is a place to share what I work on, track how much I improve, and look back at the projects that helped me learn.
-</details>
-
-<br />
-
-<div align="center">
-  <sub>Explore. Build. Refine. Repeat.</sub>
-</div>
+<p align="center">
+  <a href="https://discord.com/users/1374018758427021365">
+    <img src="https://lanyard.cnrad.dev/api/1374018758427021365?theme=dark&amp;bg=1a1c1f&amp;borderRadius=12px" alt="Sinqanz's Discord profile, status and shared activities" width="410" />
+  </a>
+</p>
