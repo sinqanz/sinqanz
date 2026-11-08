@@ -22,7 +22,7 @@ These are the technologies I want to learn, step by step.
 
 My repositories are where I'll share small projects, experiments and progress.
 
-My first goal: build a small Discord bot and understand every line of its code.
+
 
 
 [Explore my repositories →](https://github.com/sinqanz?tab=repositories)
