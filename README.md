@@ -18,20 +18,7 @@ These are the technologies I want to learn, step by step.
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,windows&amp;theme=dark" alt="Tools: Visual Studio Code, GitHub and Windows" height="64" /></a>
 </p>
 
-## 🌱 Projects
-
-My repositories are where I'll share small projects, experiments and progress.
-
-
-
-
-[Explore my repositories →](https://github.com/sinqanz?tab=repositories)
-
-## 🌐 Socials
-
-<p align="center">
-  <a href="https://github.com/sinqanz"><img src="https://skillicons.dev/icons?i=github&amp;theme=dark" alt="Sinqanz on GitHub" height="48" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/1374018758427021365"><img src="https://skillicons.dev/icons?i=discord" alt="Sinqanz on Discord" height="48" /></a>
-</p>
+## 🌐 Discord
 
 <p align="center">
   <a href="https://discord.com/users/1374018758427021365"><img src="https://lanyard.cnrad.dev/api/1374018758427021365?theme=dark&amp;bg=1a1c1f&amp;borderRadius=12px" alt="Sinqanz's Discord profile, status and shared activities" width="410" /></a>
