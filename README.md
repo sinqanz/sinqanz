@@ -1,25 +1,36 @@
-# Hey, I'm Sinqanz 👋
+# Sinqanz
 
-I'm getting started with programming and want to build Discord bots.
-Here I'll share my projects and what I learn along the way.
+I'm learning JavaScript, with TypeScript next.
+I'm interested in small tools, Discord bots, and editor extensions.
 
-## 💻 Learning path
+[Repositories](https://github.com/sinqanz?tab=repositories) · [Discord](https://discord.com/users/1374018758427021365)
 
-Starting with JavaScript, then moving on to TypeScript and Discord bot development.
-These are the technologies I want to learn, step by step.
+### On my desk
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,git&amp;theme=dark" alt="Learning goals: JavaScript, TypeScript, Node.js, discord.js and Git" height="64" /></a>
-</p>
+I'm planning **Pixel Paws**, my first project: a VS Code extension
+with animated pixel cats. Different coats, little animations,
+and a companion beside your code.
 
-## 🛠️ Tools
+Still at the planning stage. I'll share the code here once it's ready.
 
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,github,windows&amp;theme=dark" alt="Tools: Visual Studio Code, GitHub and Windows" height="64" /></a>
-</p>
+### Learning
 
-## 🌐 Discord
+JavaScript → TypeScript → Node.js and discord.js.
 
-<p align="center">
-  <a href="https://discord.com/users/1374018758427021365"><img src="https://lanyard.cnrad.dev/api/1374018758427021365?theme=dark&amp;bg=1a1c1f&amp;borderRadius=12px" alt="Sinqanz's Discord profile, status and shared activities" width="410" /></a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,discordjs,git&amp;theme=dark" alt="Learning: JavaScript, TypeScript, Node.js, discord.js and Git" height="40" />
+</a>
+
+### Tools
+
+VS Code, GitHub, and Windows.
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=vscode,github,windows&amp;theme=dark" alt="VS Code, GitHub and Windows" height="40" />
+</a>
+
+### Discord
+
+<a href="https://discord.com/users/1374018758427021365">
+  <img src="https://lanyard.cnrad.dev/api/1374018758427021365?theme=dark&amp;bg=1a1c1f&amp;borderRadius=12px" alt="Sinqanz on Discord" width="360" />
+</a>
